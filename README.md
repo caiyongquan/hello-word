@@ -1,2 +1,2 @@
-# hello-word
+# echo
 my frist repository
